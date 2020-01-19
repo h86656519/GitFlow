@@ -10,4 +10,6 @@ public class Function2 {
     //將feature1 合併到beta1
 
     //解決衝突feature1 和 feature2 的衝突，新增function3，將feature2 的function2 改為function3
+
+    //beta1測試完成了，可以finish feature
 }
